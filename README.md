@@ -1,7 +1,7 @@
-you**Hello, I'm schizoposter**
+**Hello, I'm schizoposter**
 ==========================
 
-I am not a professional.
+I am a professional.
 
 
 **Contact me on Matrix:** `[@]elia[:]p3t.me`
